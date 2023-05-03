@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svgg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svgg" alt="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40">
 </div>
 
 ---
