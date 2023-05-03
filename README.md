@@ -30,16 +30,44 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jitendra-GRL&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
-
+<!--options-->
+<table>
+  <tr>
+    <td align="center" nowrap="nowrap">Option</i></td><td align="center" nowrap="nowrap">Description</td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar</code></h4></td>
+    <td rowspan="2"><p>Enable isocalendar plugin</p>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>boolean</code>
+<br>
+<b>default:</b> no<br></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><h4><code>plugin_isocalendar_duration</code></h4></td>
+    <td rowspan="2"><p>Time range</p>
+<ul>
+<li><code>half-year</code>: 180 days</li>
+<li><code>full-year</code>: 1 year</li>
+</ul>
+<img width="900" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td nowrap="nowrap"><b>type:</b> <code>string</code>
+<br>
+<b>default:</b> half-year<br>
+<b>allowed values:</b><ul><li>half-year</li><li>full-year</li></ul></td>
+  </tr>
+</table>
+<!--/options-->
 
 
  
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-GRL&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+ 
 
 
-
-
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Jitendra-GRL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 
 
 
