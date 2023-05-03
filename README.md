@@ -10,5 +10,14 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
+  
+</div>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="500" height="600">
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-GRL
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
