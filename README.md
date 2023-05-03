@@ -1,5 +1,5 @@
 
-<img src="./assets/HI.png" width="1000" height="500">
+<img src="./assets/HI.png" width="1500" height="250">
 
 
 
