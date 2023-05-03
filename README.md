@@ -11,4 +11,4 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 
-![python-original-wordmark (1)](https://user-images.githubusercontent.com/99864243/235845182-1a395766-f8a3-4b8a-bba9-69dfb4e47393.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="500" height="600">
