@@ -19,4 +19,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jithu&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jitendra-GRL&theme=dark&mode=weekly)](https://git.io/streak-stats)
