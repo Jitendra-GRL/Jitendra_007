@@ -1,5 +1,5 @@
-![Jithu's GitHub Banner]
-<img src="./assets/HI.png" width="400" height="100">
+
+<img src="./assets/HI.png" width="1000" height="500">
 
 
 
