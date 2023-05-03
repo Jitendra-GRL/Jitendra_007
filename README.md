@@ -1,4 +1,6 @@
-[![Jithu's GitHub Banner](./assets/HI.png)]
+![Jithu's GitHub Banner]
+<img src="./assets/HI.png" width="400" height="100">
+
 
 
 :telescope: I’m working as a Software Engineer and contributing to  backend for building application software.
