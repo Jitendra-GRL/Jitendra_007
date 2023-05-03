@@ -3,6 +3,11 @@
 
 
 
+
+
+
+
+
 :telescope: I’m working as a Software Engineer and contributing to  backend for building application software.
 
 - :zap: In my free time, I learn advanced python and read tech articles.
