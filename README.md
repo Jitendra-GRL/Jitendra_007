@@ -21,14 +21,14 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="60" height="60">
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="40" height="40">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svgg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svgg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain-wordmark.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svgg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40">
 </div>
